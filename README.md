@@ -3,7 +3,7 @@ Crear apk de producción en windows con react-native
 
 Con la versión actual de react-native 0.14.2 no es compatible generar un apk firmada ya que en windows se rompe, la solución temporal es.
 
-## Configurar react.gradle
+## react.gradle
 Directorio: ./android/app/
 
 
@@ -20,7 +20,7 @@ Apk create production react-native with native windows
 
 With the current version 0.14.2-native react is not compatible generate a signed apk because it breaks Windows, the workaround is.
 
-## Set react.gradle
+## react.gradle
 Directory: ./android/app/
 
 

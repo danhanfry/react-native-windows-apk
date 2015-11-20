@@ -16,7 +16,7 @@ Luego seguir los pasos de: https://facebook.github.io/react-native/docs/signed-a
 -----------------------------------------
 
 # React-native-windows-apk
-Apk create production-react with native windows
+Apk create production react-native with native windows
 
 With the current version 0.14.2-native react is not compatible generate a signed apk because it breaks Windows, the workaround is.
 

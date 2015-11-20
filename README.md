@@ -8,7 +8,7 @@ Directorio: ./android/app/
 
 
 ## index.js
-Directorio: ./node_modules/react-native/packager/react-packager/src\SocketInterface
+Directorio: ./node_modules/react-native/packager/react-packager/src/SocketInterface
 
 
 Luego seguir los pasos de: https://facebook.github.io/react-native/docs/signed-apk-android.html#content
@@ -25,7 +25,7 @@ Directory: ./android/app/
 
 
 ## index.js
-Directory: ./node_modules/react-native/packager/react-packager/src\SocketInterface
+Directory: ./node_modules/react-native/packager/react-packager/src/SocketInterface
 
 
 Then follow the steps of: https://facebook.github.io/react-native/docs/signed-apk-android.html#content
